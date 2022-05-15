@@ -1,0 +1,29 @@
+.profile {
+  padding: 5px;
+  margin: 5px;
+  width: 240px;
+
+  text-align: center;
+  color: teal;
+
+  background-color: #FCE9CE;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.avatar {
+  height: 240px;
+}
+
+.stats {
+  text-align: justify;
+}
+
+.label {
+  margin-right: 5px;
+  color: black;
+}
+
+.quantity {
+  color: red;
+}

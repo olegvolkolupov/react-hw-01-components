@@ -1,0 +1,25 @@
+.statistics {
+  padding: 5px;
+  margin: 5px;
+  width: 240px;
+
+  color: darkmagenta;
+
+  background-color: lightblue;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.statList {
+  text-align: left;
+}
+
+.title {
+  color: tomato;
+  text-align: center;
+}
+
+.label {
+  margin-right: 7px;
+  color: black;
+}

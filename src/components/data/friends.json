@@ -1,0 +1,32 @@
+[
+    {
+      "avatar": "https://cdn.pixabay.com/photo/2015/03/03/20/42/man-657869__340.jpg",
+      "name": "Vova",
+      "isOnline": true,
+      "id": 1812
+    },
+    {
+      "avatar": "https://cdn.pixabay.com/photo/2015/03/03/08/55/portrait-657116__340.jpg",
+      "name": "Sara",
+      "isOnline": false,
+      "id": 1137
+    },
+    {
+      "avatar": "https://cdn.pixabay.com/photo/2017/08/12/18/31/male-2634974__340.jpg",
+      "name": "Mike",
+      "isOnline": true,
+      "id": 1213
+    },
+    {
+      "avatar": "https://cdn.pixabay.com/photo/2015/01/22/15/13/businessman-607834__340.png",
+      "name": "Bob",
+      "isOnline": true,
+      "id": 1714
+    },
+    {
+      "avatar": "https://cdn.pixabay.com/photo/2015/01/12/10/44/woman-597173__340.jpg",
+      "name": "Sveta",
+      "isOnline": false,
+      "id": 1284
+    }
+  ]

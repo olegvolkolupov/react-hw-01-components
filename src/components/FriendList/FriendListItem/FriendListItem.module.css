@@ -1,0 +1,32 @@
+.item {
+  margin: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+
+  text-align: center;
+  color: teal;
+
+  background-color: #b3fafa;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.avatar {
+  padding-top: 5px;
+  width: 48px;
+  height: 72px;
+}
+
+.statusBlue {
+  color: whitesmoke;
+  background-color: darkgreen;
+}
+
+.statuBlack {
+  color: whitesmoke;
+  background-color: red;
+}
+
+.name {
+  color: darkblue;
+}
